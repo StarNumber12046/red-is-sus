@@ -14,3 +14,9 @@ Videogioco ispirato ad among us
 - Aprire GoDot
 - Importare il file premendo su importa e selezionando il file **project.godot**
 - Avviare il gioco cliccandoil tasto play (**>** in alto)
+
+
+## N.B.
+Tutti i file si trovano in GitHub releases
+
+
